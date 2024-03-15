@@ -74,10 +74,7 @@ content:
         quote: >
           AI-powered Entrance Monitoring System.
         description: | # this will include new lines to allow paragraphs
-          <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 30%;">        
-          # IoT device that monitors the entrance of a building and uses facial recognition to notify the owners of who is entering. The project uses a Jetson Nano and a webcam to do facial recognition with OpenCV and send push notifications to alert owners of entries. The device is in idle mode, using background differenciation to detect movements until the door opens. At that point the program turns on a smart plug to illuminate the room and start the face recognition module. When someone is detected by the system it takes a screenshot, sends a push notification to the user with the screenshot and add the detection information to a database.<br>
-          # The system uses a Flask server so that the users can monitor the entrance in real time as well as see the history of entries for the past 24 hours. The webpage also includes a link to an upload page if the user wants to add known faces to the face recognition model.
-
+          <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 30%;">
           Why?: To enhance building security and convenience, leveraging cutting-edge IoT and machine learning technologies to automatically monitor entryways, recognize faces, and notify owners in real time of who is entering their premises.
 
           What?: Developed an innovative IoT device using a Jetson Nano and webcam, integrated with OpenCV for facial recognition, that activates upon detecting movement and door opening. It illuminates the area, initiates face recognition, and alerts owners via push notifications, while storing entry data for historical review.
