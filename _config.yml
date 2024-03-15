@@ -62,9 +62,9 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/TheoDfft/hodor-project
+          - title:  TheoDfft/hodor-project
+            # icon: fab fa-github
+            # url: github.com/TheoDfft/hodor-project
             image: images/profile_pic.jpeg
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -72,6 +72,7 @@ content:
         quote: >
           AI-powered entrance monitoring system.
         description: | # this will include new lines to allow paragraphs
+          ![Hodor Project Image](/images/profile_pic.jpeg "Project Image Title")
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
