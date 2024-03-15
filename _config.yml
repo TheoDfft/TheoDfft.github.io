@@ -49,8 +49,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Theo and I'm an aspiring robotics engineer. I'm passionate about new technologies, how they work and how to apply them to have an impact on the world. With a background in Mechanical Engineering, a specialization in Robotics and Machine Learning and two years of industry experience with AMR deployment, I'm looking for new opportunities to grow and learn.
-  \n
+  Hi, my name's Theo and I'm an aspiring robotics engineer. I'm passionate about new technologies, how they work and how to apply them to have an impact on the world. With a background in Mechanical Engineering, a specialization in Robotics and Machine Learning and two years of industry experience with AMR deployment, I'm looking for new opportunities to grow and learn.\n
+  
   Currently pursuing a M.S in Mechatronics and Robotics at New York University. Graduating in December 2025.
 
 content:
@@ -71,8 +71,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           AI-powered Entrance Monitoring System.
-        description: | # this will include new lines to allow paragraphs
-          <img src="/images/Hodor_webpage_main.jpg" alt="Hodor Webpage Main" style="float: left; margin-right: 20px; width: 30%;">          
+        description: | # this will include new lines to allow paragraphs        
           IoT device that monitors the entrance of a building and uses facial recognition to notify the owners of who is entering. The project uses a Jetson Nano and a webcam to do facial recognition with OpenCV and send push notifications to alert owners of entries. The device is in idle mode, using background differenciation to detect movements until the door opens. At that point the program turns on a smart plug to illuminate the room and start the face recognition module. When someone is detected by the system it takes a screenshot, sends a push notification to the user with the screenshot and add the detection information to a database. 
           \n The system uses a Flask server so that the users can monitor the entrance in real time as well as see the history of entries for the past 24 hours. The webpage also includes a link to an upload page if the user wants to add known faces to the face recognition model.
           <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 30%;">
