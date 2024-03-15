@@ -72,7 +72,7 @@ content:
         sub_title: >
           AI-powered Entrance Monitoring System.
         description: | # this will include new lines to allow paragraphs
-          
+          \n
           <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 30%;">
           Why? To enhance building security and convenience, leveraging cutting-edge IoT and machine learning technologies to automatically monitor entryways, recognize faces, and notify owners in real time of who is entering their premises.
 
@@ -80,7 +80,7 @@ content:
 
           How? Utilized Python for backend logic, JavaScript, HTML, and CSS for a user-friendly web interface, and SQL for data management. The project employs Flask for server-side operations, enabling real-time monitoring and history tracking, and provides functionality for users to enhance the facial recognition model by uploading known faces.
 
-          <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom; margin-right: 20px; width: 50%;">
+          <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom; margin-right: 20px; width: 60%;">
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
