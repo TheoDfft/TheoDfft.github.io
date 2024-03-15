@@ -50,7 +50,7 @@ additional_links:
 about_profile_image: images/profile_pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Theo and I'm an aspiring robotics engineer. I'm passionate about new technologies, how they work and how to apply them to have an impact on the world. With a background in Mechanical Engineering, a specialization in Robotics and Machine Learning and two years of industry experience with AMR deployment, I'm looking for new opportunities to grow and learn.
-
+  \n
   Currently pursuing a M.S in Mechatronics and Robotics at New York University. Graduating in December 2025.
 
 content:
@@ -73,8 +73,9 @@ content:
           AI-powered entrance monitoring system.
         description: | # this will include new lines to allow paragraphs
           ![Hodor Project Image](/images/profile_pic.jpeg "Project Image Title")
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          
+          IoT device that monitors the entrance of a building and uses facial recognition to notify the owners of who is entering. The project uses a Jetson Nano and a webcam to do facial recognition with OpenCV and send push notifications to alert owners of entries. The device is in idle mode, using background differenciation to detect movements until the door opens. At that point the program turns on a smart plug to illuminate the room and start the face recognition module. When someone is detected by the system it takes a screenshot and  and start the facial recognition process.
+a
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
