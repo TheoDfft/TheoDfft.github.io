@@ -9,6 +9,7 @@ version: 2
 name: Theo Duffaut
 title: Robotics Engineer
 email: duffaut.theo@gmail.com
+phone: +1 925-282-0175
 website: www.TheoDfft.github.io
 
 # Dark Mode (true/false/never)
@@ -50,25 +51,26 @@ about_profile_image: images/profile_pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Theo and I'm an aspiring robotics engineer. I'm passionate about new technologies, how they work and how to apply them to have an impact on the world. With a background in Mechanical Engineering, a specialization in Robotics and Machine Learning and two years of industry experience with AMR deployment, I'm looking for new opportunities to grow and learn.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Linux</mark>
+  Currently pursuing a M.S in Mechatronics and Robotics at New York University. Graduating in December 2025.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Hodor Project
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/TheoDfft/hodor-project
+            image: images/profile_pic.jpeg
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          AI-powered entrance monitoring system.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
