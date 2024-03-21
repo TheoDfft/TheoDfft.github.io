@@ -74,6 +74,24 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 30%;">
 
+          IoT Security System with NVIDIA Jetson Nano: Engineered an advanced security system using the NVIDIA Jetson Nano and webcam, providing automated entrance monitoring and real-time facial recognition to enhance building security.
+
+          Facial Recognition Powered by OpenCV: Leveraged OpenCV for high-accuracy facial recognition, enabling the system to reliably identify individuals in various lighting conditions, demonstrating the application of sophisticated computer vision technologies.
+
+          Responsive Web Interface: Developed an interactive web interface using JavaScript, HTML, and CSS, facilitating real-time user engagement, face management, and access to entry logs, showcasing skills in modern web development technologies.
+
+          Flask Server Backend: Created a Flask-based backend architecture to manage video streams and facial recognition processing efficiently, illustrating expertise in server-side programming and real-time web communication.
+
+          Machine Learning for Facial Recognition: Implemented a machine learning model to achieve accurate facial recognition with low false positives, highlighting a foundation in machine learning technologies and their optimization for real-world applications.
+
+          Backend Logic with Python: Utilized Python for sophisticated backend logic, integrating various IoT components and managing data processing tasks, showcasing the versatile application of Python in complex system development.
+
+          Data Management with SQL: Employed SQL for robust historical data management, enabling effective data querying and log tracking, reflecting strong capabilities in database management and design.
+
+          Real-Time Notifications via External APIs: Integrated external APIs for instant push notifications upon face detection, emphasizing the use of API integration and real-time data processing to enhance user experience.
+
+          Efficient Motion Detection: Designed a motion detection mechanism to activate the system, optimizing energy use while ensuring continuous monitoring, demonstrating innovative application of motion sensing technology for system efficiency.
+
           <b><u>Why?</u></b> To enhance building security and convenience, leveraging cutting-edge <mark>IoT</mark> and <mark>machine learning</mark> technologies to automatically monitor entryways, recognize faces, and notify owners in real time of who is entering their premises.
 
           <b><u>What?</u></b> Developed an innovative IoT device using a <mark>Jetson Nano</mark> and webcam, integrated with <mark>OpenCV</mark> for facial recognition, that activates upon movement detection. It illuminates the area, initiates face recognition, and alerts owners via push notifications, while storing entry data for historical review.
