@@ -133,7 +133,7 @@ content:
             Spearheaded the deployment of newly acquired <b>AGVs</b> using a custom high-level programming IDE based on <b>Python</b>, ROS, and <b>Ubuntu OS</b>. Programmed, tested and deployed brand new <b>fleet management</b> features (queueing, autonomous charging routine, custom warehouse workflow, etc), but also individual <b>robot behaviors</b> (navigation and path-planning algorithms, pickup/dropoff actuations, recovery mechanisms). Leveraged the <b>Modbus protocol</b> for inter-robot communication and <b>MongoDB</b> for central server data management.<br><br>
             Maintained strong collaborative relationships with cross-functional teams to seamlessly integrate robotic technologies, driving significant customer productivity increases of up to 3x.
 
-      - layout: text
+      - layout: top
         description: | # this will include new lines to allow paragraph
           
           ***
@@ -178,7 +178,7 @@ content:
               Business Project Management<br>
               Databases and MySQL
 
-      - layout: text
+      - layout: top
         description: | # this will include new lines to allow paragraph
           
           ***
