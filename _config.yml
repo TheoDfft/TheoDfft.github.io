@@ -118,8 +118,10 @@ content:
           
           Engineered a system for precise air injector control and a custom wheel for improved comfort of the mice (<mark>CAD</mark>, <mark>FEA</mark>, <mark>Stress/Strain testing</mark>), illustrating innovative solutions for experimental challenges in neuroscience.<br>
           
-          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="display: block; margin: 20px auto; width: 40%;">
-          <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="display: block; margin-top: 20px; margin-left: 20px; width: 30%;">
+          <div style="text-align: center;">
+            <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="width: 40%; margin-right: 20px; display: inline-block;">
+            <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="width: 30%; display: inline-block;">
+          </div>
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -169,7 +171,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Supervised Machine Learning: Regression and Classification<br>
+          <br><br><br>Supervised Machine Learning: Regression and Classification<br>
           Advanced Learning Algorithms<br>
           Unsupervised Learning, Recommenders, Reinforcement Learning<br>
 
