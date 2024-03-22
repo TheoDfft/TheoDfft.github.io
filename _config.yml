@@ -75,9 +75,7 @@ content:
           <br><img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 30%;">
 
           <b><u>IoT Security System with NVIDIA Jetson Nano:</u></b><br> Engineered an advanced security system using the NVIDIA Jetson Nano and a webcam, providing automated entrance monitoring and real-time facial recognition to enhance building security.<br><br>
-
           <b><u>Facial Recognition Powered by OpenCV:</u></b><br> Leveraged <mark>OpenCV</mark> for high-accuracy facial recognition, enabling the system to reliably identify individuals in various lighting conditions, demonstrating the application of <mark>computer vision</mark> technologies such as Histogram of Oriented Gradients and Face Landmarks Detection.<br><br>
-
           <b><u>Responsive Web Interface:</u></b><br> Developed an interactive web interface using <mark>JavaScript</mark>, <mark>HTML</mark>, and <mark>CSS</mark>, facilitating real-time user engagement, face management, and access to entry logs, showcasing understanding of modern <mark>web development</mark> technologies.<br><br>
 
           <b><u>Flask Server Backend:</u></b><br> Created a Flask-based backend architecture to manage video streams and facial recognition processing efficiently, illustrating experience in server-side programming and real-time web communication.<br><br>
