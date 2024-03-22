@@ -180,8 +180,9 @@ content:
 
       - layout: top-middle
         description: | # this will include new lines to allow paragraph
+          Leveraged <strong>OpenCV</strong> for high-accuracy facial recognition, enabling the system to reliably identify individuals in various lighting conditions,
           
-          ***
+          <b style="margin-left: 50px; margin-right: 50px;">***</b>
           
 
       - layout: left
