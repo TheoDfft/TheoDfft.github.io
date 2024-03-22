@@ -72,8 +72,6 @@ content:
         sub_title: >
           AI-powered Entrance Monitoring System.
         description: | # this will include new lines to allow paragraphs
-          
-          ---
           <br><img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 30%;">
 
           <b><u>IoT Security System with NVIDIA Jetson Nano:</u></b><br> Engineered an advanced security system using the NVIDIA Jetson Nano and a webcam, providing automated entrance monitoring and real-time facial recognition to enhance building security.<br>
@@ -82,7 +80,7 @@ content:
 
           <b><u>Responsive Web Interface:</u></b><br> Developed an interactive web interface using <mark>JavaScript</mark>, <mark>HTML</mark>, and <mark>CSS</mark>, facilitating real-time user engagement, face management, and access to entry logs, showcasing understanding of modern <mark>web development</mark> technologies.<br>
 
-          <b><u>Flask Server Backend:</u></b><br> Created a Flask-based backend architecture to manage video streams and facial recognition processing efficiently, illustrating experience in server-side programming and real-time web communication.<br><br>
+          <b><u>Flask Server Backend:</u></b><br> Created a Flask-based backend architecture to manage video streams and facial recognition processing efficiently, illustrating experience in server-side programming and real-time web communication.<br>
 
           <b><u>Machine Learning for Facial Recognition:</u></b><br> Implemented a <mark>machine learning</mark> model to achieve accurate facial recognition with low false positives (trained on known faces' encodings), highlighting a foundation in machine learning technologies and their optimization for real-world applications.<br>
 
@@ -95,7 +93,8 @@ content:
           <b><u>Efficient Motion Detection:</u></b><br> Designed a motion detection mechanism to activate the system (based on absolute pixel differentiation), optimizing energy use while ensuring continuous monitoring, demonstrating innovative application of motion sensing technology for system efficiency.<br>
 
           <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom; margin-right: 20px; width: 60%;"><br>
-          ___
+          
+          ---
           
 
       - layout: top-middle
@@ -114,11 +113,11 @@ content:
           Leichtag Biomedical Research
         description: | # this will include new lines to allow paragraphs
           
-          Improved a cutting-edge cerebellar learning apparatus, integrating <mark>MATLAB</mark> and <mark>C++</mark> for <mark>computer vision</mark> and <mark>data processing</mark>, enhancing neuroscientific research capabilities.<br><br>
+          Improved a cutting-edge cerebellar learning apparatus, integrating <mark>MATLAB</mark> and <mark>C++</mark> for <mark>computer vision</mark> and <mark>data processing</mark>, enhancing neuroscientific research capabilities.<br>
           
-          Employed a <mark>Teensy microcontroller</mark> for precise, millisecond-accurate control of stimuli delivery and response recording, showcasing functional programming skills.<br><br>
+          Employed a <mark>Teensy microcontroller</mark> for precise, millisecond-accurate control of stimuli delivery and response recording, showcasing functional programming skills.<br>
           
-          Automated high-speed camera and LED operations for synchronized stimulus delivery and blink detection, demonstrating expertise in <mark>hardware integration</mark> and real-time <mark>system design</mark>.<br><br>
+          Automated high-speed camera and LED operations for synchronized stimulus delivery and blink detection, demonstrating expertise in <mark>hardware integration</mark> and real-time <mark>system design</mark>.<br>
           
           Engineered a system for precise air injector control and a custom wheel for improved comfort of the mice (<mark>CAD</mark>, <mark>FEA</mark>, <mark>Stress/Strain testing</mark>), illustrating innovative solutions for experimental challenges in neuroscience.<br>
           
@@ -147,7 +146,8 @@ content:
             Spearheaded the deployment of newly acquired <mark>AGVs</mark> using a custom high-level programming IDE based on <mark>Python</mark>, ROS, and <mark>Ubuntu OS</mark>. Programmed, tested and deployed brand new <mark>fleet management</mark> features (queueing, autonomous charging routine, custom warehouse workflow, etc), but also individual <mark>robot behaviors</mark> (navigation and path-planning algorithms, pickup/dropoff actuations, recovery mechanisms). Leveraged the <mark>Modbus protocol</mark> for inter-robot communication and <mark>MongoDB</mark> for central server data management.
 
             Maintained strong collaborative relationships with cross-functional teams to seamlessly integrate robotic technologies, driving significant customer productivity increases of up to 3x.
-            ___
+
+            ---
             
       - layout: left
         title: 2Go Products
