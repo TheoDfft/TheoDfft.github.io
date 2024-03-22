@@ -109,8 +109,6 @@ content:
         sub_title: >
           Leichtag Biomedical Research
         description: | # this will include new lines to allow paragraphs
-          <br><img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="float: right; margin-left: 20px; width: 30%;">
-          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="float: right; margin-left: 20px; width: 40%;">
           
           Improved a cutting-edge cerebellar learning apparatus, integrating <mark>MATLAB</mark> and <mark>C++</mark> for <mark>computer vision</mark> and <mark>data processing</mark>, enhancing neuroscientific research capabilities.<br><br>
           
@@ -118,8 +116,10 @@ content:
           
           Automated high-speed camera and LED operations for synchronized stimulus delivery and blink detection, demonstrating expertise in <mark>hardware integration</mark> and real-time <mark>system design</mark>.<br><br>
           
-          Engineered a system for precise air injector control and a custom wheel for improved comfort of the mice (<mark>CAD</mark>, <mark>FEA</mark>, <mark>Stress/Strain testing</mark>), illustrating innovative solutions for experimental challenges in neuroscience.<br><br>
+          Engineered a system for precise air injector control and a custom wheel for improved comfort of the mice (<mark>CAD</mark>, <mark>FEA</mark>, <mark>Stress/Strain testing</mark>), illustrating innovative solutions for experimental challenges in neuroscience.<br>
           
+          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="float: bottom; margin-top: 20px; width: 40%;">
+          <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="float: bottom; margin-top: 20px; width: 30%;">
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -150,9 +150,17 @@ content:
           <b><u>GPA:</u></b> 3.84 (Cum Laude Honors)
           
           <b><u>Coursework:</u></b><br>
+              Embedded Systems and Robotics<br>
+              Robotic Planning and Estimation<br>
+              Signals, Systems and Linear Controls<br>
+              MATLAB/Python Programming for Engineers<br>
+              Intro to Autonomous Vehicles<br>
               Engineering Design (SolidWorks, Inventor, Fusion360 and AutoCad)<br>
               Computer-Aided Analysis & Design (ANSYS FEA, Numerical Methods, Optimization)<br>
-              MATLAB/Python Programming for Engineers, Fluid Mechanics, Heat Transfer, Thermodynamics<br>
+              Statics, Dynamics, Kinematics and Vibrations of Solids<br>
+              Fluid Mechanics, Heat Transfer, Thermodynamics<br>
+              Business Project Management<br>
+              Databases and MySQL
 
   - title: A Little More About Me
     layout: text
