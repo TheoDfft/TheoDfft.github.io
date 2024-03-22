@@ -118,8 +118,8 @@ content:
           
           Engineered a system for precise air injector control and a custom wheel for improved comfort of the mice (<mark>CAD</mark>, <mark>FEA</mark>, <mark>Stress/Strain testing</mark>), illustrating innovative solutions for experimental challenges in neuroscience.<br>
           
-          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="float: bottom; margin-top: 20px; width: 40%;">
-          <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="float: bottom; margin-top: 20px; width: 30%;">
+          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="display: block; margin: 20px auto; width: 40%;">
+          <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="display: block; margin-top: 20px; margin-left: 20px; width: 30%;">
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -142,29 +142,7 @@ content:
     content:
       - layout: left
         title: University of California, San Diego
-        caption: 2018 - 2021
-        sub_title: B.S. in Mechanical Engineering, Specialization in Robotics and Controls
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          <b><u>GPA:</u></b> 3.84 (Cum Laude Honors)
-          
-          # <b><u>Coursework:</u></b><br>
-          #     Embedded Systems and Robotics<br>
-          #     Robotic Planning and Estimation<br>
-          #     Signals, Systems and Linear Controls<br>
-          #     MATLAB/Python Programming for Engineers<br>
-          #     Intro to Autonomous Vehicles<br>
-          #     Engineering Design (SolidWorks, Inventor, Fusion360 and AutoCad)<br>
-          #     Computer-Aided Analysis & Design (ANSYS FEA, Numerical Methods, Optimization)<br>
-          #     Statics, Dynamics, Kinematics and Vibrations of Solids<br>
-          #     Fluid Mechanics, Heat Transfer, Thermodynamics<br>
-          #     Business Project Management<br>
-          #     Databases and MySQL
-
-      - layout: left
-        title: University of California, San Diego
-        caption: 2018 - 2021
+        caption: Sep. 2018 - Mar. 2021
         sub_title: B.S. in Mechanical Engineering, Specialization in Robotics and Controls
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -183,6 +161,17 @@ content:
               Fluid Mechanics, Heat Transfer, Thermodynamics<br>
               Business Project Management<br>
               Databases and MySQL
+
+      - layout: left
+        title: Stanford University / DeepLearning.AI
+        caption: March 2024
+        sub_title: Specialization Certificate in Machine Learning
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Supervised Machine Learning: Regression and Classification<br>
+          Advanced Learning Algorithms<br>
+          Unsupervised Learning, Recommenders, Reinforcement Learning<br>
 
   - title: A Little More About Me
     layout: text
