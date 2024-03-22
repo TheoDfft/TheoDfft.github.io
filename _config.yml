@@ -10,10 +10,10 @@ name: Theo Duffaut
 title: Robotics Engineer
 email: duffaut.theo@gmail.com
 phone: +1 925-282-0175
-website: www.TheoDfft.github.io
+website: https://theodfft.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 # twitter_username: facespics
