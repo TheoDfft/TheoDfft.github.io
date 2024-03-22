@@ -77,19 +77,12 @@ content:
           <b><u>IoT Security System with NVIDIA Jetson Nano:</u></b><br> Engineered an advanced security system using the NVIDIA Jetson Nano and a webcam, providing automated entrance monitoring and real-time facial recognition to enhance building security.<br><br>
           <b><u>Facial Recognition Powered by OpenCV:</u></b><br> Leveraged <mark>OpenCV</mark> for high-accuracy facial recognition, enabling the system to reliably identify individuals in various lighting conditions, demonstrating the application of <mark>computer vision</mark> technologies such as Histogram of Oriented Gradients and Face Landmarks Detection.<br><br>
           <b><u>Responsive Web Interface:</u></b><br> Developed an interactive web interface using <mark>JavaScript</mark>, <mark>HTML</mark>, and <mark>CSS</mark>, facilitating real-time user engagement, face management, and access to entry logs, showcasing understanding of modern <mark>web development</mark> technologies.<br><br>
-
           <b><u>Flask Server Backend:</u></b><br> Created a Flask-based backend architecture to manage video streams and facial recognition processing efficiently, illustrating experience in server-side programming and real-time web communication.<br><br>
-
           <b><u>Machine Learning for Facial Recognition:</u></b><br> Implemented a <mark>machine learning</mark> model to achieve accurate facial recognition with low false positives (trained on known faces' encodings), highlighting a foundation in machine learning technologies and their optimization for real-world applications.<br><br>
-
           <b><u>Backend Logic with Python:</u></b><br> Utilized <mark>Python</mark> for sophisticated backend logic, integrating various <mark>IoT</mark> components and managing data processing tasks, showcasing the versatile application of Python in complex system development.<br><br>
-
           <b><u>Data Management with SQL:</u></b><br> Employed <mark>SQL</mark> for robust historical data management, enabling effective data querying and log tracking, reflecting capabilities in database management and design.<br><br>
-
           <b><u>Real-Time Notifications via External APIs:</u></b><br> Integrated external APIs for instant push notifications upon face detection, emphasizing the use of <mark>API integration</mark> and real-time data processing to enhance user experience.<br><br>
-
           <b><u>Efficient Motion Detection:</u></b><br> Designed a motion detection mechanism to activate the system (based on absolute pixel differentiation), optimizing energy use while ensuring continuous monitoring, demonstrating innovative application of motion sensing technology for system efficiency.<br><br>
-
           <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom; margin-right: 20px; width: 60%;"><br><br>
           
           ***
@@ -134,22 +127,13 @@ content:
         caption: August 2022 - January 2024
         #quote: > Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Led the deployment of 30+ fleets of <mark>autonomous collaborative robots</mark> in warehouse environments. Extensive use of <mark>Linux command-line</mark>, <mark>SLAM techniques</mark> for map generation, and <mark>ROS tools</mark> (RVIZ, Launch file configuration, etc).
-
-            
-            Demonstrated functional understanding of logistics and ecommerce market dynamics, integrating warehouse automation solutions to optimize operational efficiency and meet evolving customer expectations. Leveraged knowledge on <mark>WMS/OMS</mark> platforms to streamline solution design and implementation.
-
-
-            Provided nationwide remote support utilizing <mark>SSH</mark>, <mark>Linux</mark>, <mark>ROS</mark> and <mark>Python debugging tools</mark>, ensuring seamless operation of robotic systems. Honed <mark>customer support</mark> skills through on-site and remote assistance, fostering transparent communication channels for effective troubleshooting and solution tailoring.
-
-
-            Spearheaded the deployment of newly acquired <mark>AGVs</mark> using a custom high-level programming IDE based on <mark>Python</mark>, ROS, and <mark>Ubuntu OS</mark>. Programmed, tested and deployed brand new <mark>fleet management</mark> features (queueing, autonomous charging routine, custom warehouse workflow, etc), but also individual <mark>robot behaviors</mark> (navigation and path-planning algorithms, pickup/dropoff actuations, recovery mechanisms). Leveraged the <mark>Modbus protocol</mark> for inter-robot communication and <mark>MongoDB</mark> for central server data management.
-
-
+            Led the deployment of 30+ fleets of <mark>autonomous collaborative robots</mark> in warehouse environments. Extensive use of <mark>Linux command-line</mark>, <mark>SLAM techniques</mark> for map generation, and <mark>ROS tools</mark> (RVIZ, Launch file configuration, etc).<br><br>
+            Demonstrated functional understanding of logistics and ecommerce market dynamics, integrating warehouse automation solutions to optimize operational efficiency and meet evolving customer expectations. Leveraged knowledge on <mark>WMS/OMS</mark> platforms to streamline solution design and implementation.<br><br>
+            Provided nationwide remote support utilizing <mark>SSH</mark>, <mark>Linux</mark>, <mark>ROS</mark> and <mark>Python debugging tools</mark>, ensuring seamless operation of robotic systems. Honed <mark>customer support</mark> skills through on-site and remote assistance, fostering transparent communication channels for effective troubleshooting and solution tailoring.<br><br>
+            Spearheaded the deployment of newly acquired <mark>AGVs</mark> using a custom high-level programming IDE based on <mark>Python</mark>, ROS, and <mark>Ubuntu OS</mark>. Programmed, tested and deployed brand new <mark>fleet management</mark> features (queueing, autonomous charging routine, custom warehouse workflow, etc), but also individual <mark>robot behaviors</mark> (navigation and path-planning algorithms, pickup/dropoff actuations, recovery mechanisms). Leveraged the <mark>Modbus protocol</mark> for inter-robot communication and <mark>MongoDB</mark> for central server data management.<br><br>
             Maintained strong collaborative relationships with cross-functional teams to seamlessly integrate robotic technologies, driving significant customer productivity increases of up to 3x.
 
-            ***
-      - layout: left
+      - layout: top-middle
         description: | # this will include new lines to allow paragraph
           
           ***
@@ -163,15 +147,11 @@ content:
         caption: January 2021 - July 2022
         #quote: > Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Designed 100+ parts for mass production of new and old product line (<mark>Solidworks</mark>, <mark>AutoCAD</mark>, <mark>Inventor</mark> and <mark>Fusion360</mark> for prototyping), obtaining an <mark>invention patent</mark> along the way (U.S. Patent Application 17/863,198).
-
-            Accumulated experience with standard <mark>manufacturing techniques</mark> (injection molding, ultrasonic welding, DFM)
-
-            Developed and deployed stress/strain testing rigs for the company products
-
-            Prototyped hundreds of parts, tools and fixtures using <mark>SLA</mark>, <mark>FDM</mark>, <mark>CNC</mark> and various <mark>hand tools</mark>
-
-            Led the development of a new product, supervising two newly hired engineers. Gained valuable <mark>project management</mark> experience and exposure to the full <mark>product design cycle</mark>.
+            Designed 100+ parts for mass production of new and old product line (<mark>Solidworks</mark>, <mark>AutoCAD</mark>, <mark>Inventor</mark> and <mark>Fusion360</mark> for prototyping), obtaining an <mark>invention patent</mark> along the way (U.S. Patent Application 17/863,198).<br><br>
+            Accumulated experience with standard <mark>manufacturing techniques</mark> (injection molding, ultrasonic welding, DFM).<br><br>
+            Developed and deployed stress/strain testing rigs for the company products.<br><br>
+            Prototyped hundreds of parts, tools and fixtures using <mark>SLA</mark>, <mark>FDM</mark>, <mark>CNC</mark> and various <mark>hand tools</mark>.<br><br>
+            Led the development of a new product, supervising two newly hired engineers. Gained valuable <mark>project management</mark> experience and exposure to the full <mark>product design cycle</mark>.<br><br>
 
   - title: <b>Education</b> # Title for the section
     layout: list # Type of content section (list/text)
@@ -208,7 +188,9 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           <br>Supervised Machine Learning: Regression and Classification<br>
+
           Advanced Learning Algorithms<br>
+          
           Unsupervised Learning, Recommenders, Reinforcement Learning<br>
 
   - title: <b>A Little More About Me</b>
