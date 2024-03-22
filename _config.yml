@@ -109,8 +109,8 @@ content:
         sub_title: >
           Leichtag Biomedical Research
         description: | # this will include new lines to allow paragraphs
-          <br><img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="float: right; margin-left: 20px; width: 25%;">
-          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="float: right; margin-left: 20px; width: 35%;">
+          <br><img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="float: right; margin-left: 20px; width: 30%;">
+          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="float: right; margin-left: 20px; width: 40%;">
           
           Improved a cutting-edge cerebellar learning apparatus, integrating <mark>MATLAB</mark> and <mark>C++</mark> for <mark>computer vision</mark> and <mark>data processing</mark>, enhancing neuroscientific research capabilities.<br><br>
           
@@ -147,6 +147,12 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          GPA: 3.84 (Cum Laude Honors)
+          - title: Coursework:
+            layout: list
+            description: |
+              Engineering Design (SolidWorks, Inventor, Fusion360 and AutoCad)
+              Computer-Aided Analysis & Design (ANSYS FEA, Numerical Methods, Optimization), MATLAB/Python Programming for Engineers, Fluid Mechanics, Heat Transfer, Thermodynamics, 
 
   - title: A Little More About Me
     layout: text
