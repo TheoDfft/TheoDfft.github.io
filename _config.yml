@@ -149,6 +149,11 @@ content:
             Maintained strong collaborative relationships with cross-functional teams to seamlessly integrate robotic technologies, driving significant customer productivity increases of up to 3x.
 
             ***
+      - layout: left
+        description: | # this will include new lines to allow paragraph
+          
+          ***
+          
             
       - layout: left
         title: 2Go Products
