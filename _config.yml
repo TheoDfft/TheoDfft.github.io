@@ -112,8 +112,7 @@ content:
         sub_title: >
           Leichtag Biomedical Research
         description: | # this will include new lines to allow paragraphs
-          
-          Improved a cutting-edge cerebellar learning apparatus, integrating <mark>MATLAB</mark> and <mark>C++</mark> for <mark>computer vision</mark> and <mark>data processing</mark>, enhancing neuroscientific research capabilities.<br>
+          <br>Improved a cutting-edge cerebellar learning apparatus, integrating <mark>MATLAB</mark> and <mark>C++</mark> for <mark>computer vision</mark> and <mark>data processing</mark>, enhancing neuroscientific research capabilities.<br>
           
           Employed a <mark>Teensy microcontroller</mark> for precise, millisecond-accurate control of stimuli delivery and response recording, showcasing functional programming skills.<br>
           
@@ -123,7 +122,7 @@ content:
           
           <div style="text-align: center;">
             <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="width: 50%; margin-right: 20px; display: inline-block;">
-            <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="width: 40%; display: inline-block;">
+            <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="width: 35%; display: inline-block;">
           </div>
           
   - title: <b>Experience</b> # Title for the section
