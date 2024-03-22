@@ -72,7 +72,7 @@ content:
         sub_title: >
           AI-powered Entrance Monitoring System.
         description: | # this will include new lines to allow paragraphs
-          <br><br><img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 30%;">
+          <br><img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 30%;">
 
           <b><u>IoT Security System with NVIDIA Jetson Nano:</u></b> Engineered an advanced security system using the NVIDIA Jetson Nano and a webcam, providing automated entrance monitoring and real-time facial recognition to enhance building security.<br><br>
 
@@ -109,8 +109,8 @@ content:
         sub_title: >
           Leichtag Biomedical Research
         description: | # this will include new lines to allow paragraphs
-          <br><br><img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="float: right; margin-left: 20px; width: 20%;">
-          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="float: right; margin-left: 20px; width: 40%;">
+          <br><img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="float: right; margin-left: 20px; width: 25%;">
+          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="float: right; margin-left: 20px; width: 35%;">
           
           Improved a cutting-edge cerebellar learning apparatus, integrating <mark>MATLAB</mark> and <mark>C++</mark> for <mark>computer vision</mark> and <mark>data processing</mark>, enhancing neuroscientific research capabilities.<br><br>
           
