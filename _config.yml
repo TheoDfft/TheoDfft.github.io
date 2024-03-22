@@ -109,6 +109,9 @@ content:
         sub_title: >
           Leichtag Biomedical Research
         description: | # this will include new lines to allow paragraphs
+          <img src="/images/CDL_rig_annotated.png" alt="CDL rig annotated" style="float: right; margin-left: 20px; width: 30%;">
+          <img src="/images/CDL_eye_CV.png" alt="CDL CV on mice eye" style="float: right; margin-left: 20px; width: 30%;">
+          
           Improved a cutting-edge cerebellar learning apparatus, integrating <mark>MATLAB</mark> and <mark>C++</mark> for <mark>computer vision</mark> and <mark>data processing</mark>, enhancing neuroscientific research capabilities.
           
           Employed a <mark>Teensy microcontroller</mark> for precise, millisecond-accurate control of stimuli delivery and response recording, showcasing functional programming skills.
