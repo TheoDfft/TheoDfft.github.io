@@ -143,6 +143,24 @@ content:
             Spearheaded the deployment of newly acquired <mark>AGVs</mark> using a custom high-level programming IDE based on <mark>Python</mark>, ROS, and <mark>Ubuntu OS</mark>. Programmed, tested and deployed brand new <mark>fleet management</mark> features (queueing, autonomous charging routine, custom warehouse workflow, etc), but also individual <mark>robot behaviors</mark> (navigation and path-planning algorithms, pickup/dropoff actuations, recovery mechanisms). Leveraged the <mark>Modbus protocol</mark> for inter-robot communication and <mark>MongoDB</mark> for central server data management.
 
             Maintained strong collaborative relationships with cross-functional teams to seamlessly integrate robotic technologies, driving significant customer productivity increases of up to 3x.
+            
+      - layout: left
+        title: 2Go Products
+        link: https://www.2goproducts.com/
+        link_text: 2goproducts.com
+        sub_title: Mechanical Design Engineer
+        caption: January 2021 - July 2022
+        #quote: > Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Designed 100+ parts for mass production of new and old product line (<mark>Solidworks</mark>, <mark>AutoCAD</mark>, <mark>Inventor</mark> and <mark>Fusion360</mark> for prototyping), obtaining an <mark>invention patent</mark> along the way (U.S. Patent Application 17/863,198).
+
+            Accumulated experience with standard <mark>manufacturing techniques</mark> (injection molding, ultrasonic welding, DFM)
+
+            Developed and deployed stress/strain testing rigs for the company products
+
+            Prototyped hundreds of parts, tools and fixtures using <mark>SLA</mark>, <mark>FDM</mark>, <mark>CNC</mark> and various <mark>hand tools</mark>
+
+            Led the development of a new product, supervising two newly hired engineers. Gained valuable <mark>project management</mark> experience and exposure to the full <mark>product design cycle</mark>.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -176,7 +194,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          <br><br>Supervised Machine Learning: Regression and Classification<br>
+          <br>Supervised Machine Learning: Regression and Classification<br>
           Advanced Learning Algorithms<br>
           Unsupervised Learning, Recommenders, Reinforcement Learning<br>
 
