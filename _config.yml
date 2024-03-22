@@ -93,6 +93,7 @@ content:
           <b><u>Efficient Motion Detection:</u></b><br> Designed a motion detection mechanism to activate the system (based on absolute pixel differentiation), optimizing energy use while ensuring continuous monitoring, demonstrating innovative application of motion sensing technology for system efficiency.<br>
 
           <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom; margin-right: 20px; width: 60%;"><br>
+          ___
 
       - layout: top-middle
         title: Neurobiology Lab Testing Apparatus
@@ -143,6 +144,7 @@ content:
             Spearheaded the deployment of newly acquired <mark>AGVs</mark> using a custom high-level programming IDE based on <mark>Python</mark>, ROS, and <mark>Ubuntu OS</mark>. Programmed, tested and deployed brand new <mark>fleet management</mark> features (queueing, autonomous charging routine, custom warehouse workflow, etc), but also individual <mark>robot behaviors</mark> (navigation and path-planning algorithms, pickup/dropoff actuations, recovery mechanisms). Leveraged the <mark>Modbus protocol</mark> for inter-robot communication and <mark>MongoDB</mark> for central server data management.
 
             Maintained strong collaborative relationships with cross-functional teams to seamlessly integrate robotic technologies, driving significant customer productivity increases of up to 3x.
+            ___
             
       - layout: left
         title: 2Go Products
@@ -186,6 +188,7 @@ content:
               Fluid Mechanics, Heat Transfer, Thermodynamics<br>
               Business Project Management<br>
               Databases and MySQL
+              ___
 
       - layout: left
         title: Stanford University / DeepLearning.AI
