@@ -46,7 +46,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: <b>About Me</b>
 about_profile_image: images/profile_pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Theo and I'm an aspiring robotics engineer. I'm passionate about new technologies, how they work and how to apply them to have an impact on the world. With a background in Mechanical Engineering, specializations in Robotics and Machine Learning and two years of industry experience with AMR deployment, I'm looking for new opportunities to grow and learn.<br>
@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   Currently pursuing a M.S in Mechatronics and Robotics at New York University. Graduating in December 2025.
 
 content:
-  - title: Projects # Title for the section
+  - title: <b>Projects</b> # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -94,7 +94,7 @@ content:
 
           <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom; margin-right: 20px; width: 60%;"><br>
           
-          ---
+          ***
           
 
       - layout: top-middle
@@ -126,7 +126,7 @@ content:
             <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="width: 40%; display: inline-block;">
           </div>
           
-  - title: Experience # Title for the section
+  - title: <b>Experience</b> # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -147,7 +147,7 @@ content:
 
             Maintained strong collaborative relationships with cross-functional teams to seamlessly integrate robotic technologies, driving significant customer productivity increases of up to 3x.
 
-            ---
+            ***
             
       - layout: left
         title: 2Go Products
@@ -167,7 +167,7 @@ content:
 
             Led the development of a new product, supervising two newly hired engineers. Gained valuable <mark>project management</mark> experience and exposure to the full <mark>product design cycle</mark>.
 
-  - title: Education # Title for the section
+  - title: <b>Education</b> # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -191,7 +191,10 @@ content:
               Fluid Mechanics, Heat Transfer, Thermodynamics<br>
               Business Project Management<br>
               Databases and MySQL
-              ___
+      - layout: top-middle
+        title: ***
+        description: |
+          ***
 
       - layout: left
         title: Stanford University / DeepLearning.AI
@@ -204,7 +207,7 @@ content:
           Advanced Learning Algorithms<br>
           Unsupervised Learning, Recommenders, Reinforcement Learning<br>
 
-  - title: A Little More About Me
+  - title: <b>A Little More About Me</b>
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in tech and robotics some of my other interests and hobbies are:
