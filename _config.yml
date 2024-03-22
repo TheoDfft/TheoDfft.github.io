@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Theo and I'm an aspiring robotics engineer. I'm passionate about new technologies, how they work and how to apply them to have an impact on the world. With a background in Mechanical Engineering, a specialization in Robotics and Machine Learning and two years of industry experience with AMR deployment, I'm looking for new opportunities to grow and learn.
+  Hi, my name's Theo and I'm an aspiring robotics engineer. I'm passionate about new technologies, how they work and how to apply them to have an impact on the world. With a background in Mechanical Engineering, a specialization in Robotics and Machine Learning and two years of industry experience with AMR deployment, I'm looking for new opportunities to grow and learn.<br>
   
   Currently pursuing a M.S in Mechatronics and Robotics at New York University. Graduating in December 2025.
 
@@ -74,25 +74,25 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 30%;">
 
-          <b><u>IoT Security System with NVIDIA Jetson Nano:</u></b> Engineered an advanced security system using the NVIDIA Jetson Nano and a webcam, providing automated entrance monitoring and real-time facial recognition to enhance building security.
+          <b><u>IoT Security System with NVIDIA Jetson Nano:</u></b> Engineered an advanced security system using the NVIDIA Jetson Nano and a webcam, providing automated entrance monitoring and real-time facial recognition to enhance building security.<br>
 
-          <b><u>Facial Recognition Powered by OpenCV:</u></b> Leveraged <mark>OpenCV</mark> for high-accuracy facial recognition, enabling the system to reliably identify individuals in various lighting conditions, demonstrating the application of <mark>computer vision</mark> technologies such as Histogram of Oriented Gradients and Face Landmarks Detection.
+          <b><u>Facial Recognition Powered by OpenCV:</u></b> Leveraged <mark>OpenCV</mark> for high-accuracy facial recognition, enabling the system to reliably identify individuals in various lighting conditions, demonstrating the application of <mark>computer vision</mark> technologies such as Histogram of Oriented Gradients and Face Landmarks Detection.<br>
 
-          <b><u>Responsive Web Interface:</u></b> Developed an interactive web interface using <mark>JavaScript</mark>, <mark>HTML</mark>, and <mark>CSS</mark>, facilitating real-time user engagement, face management, and access to entry logs, showcasing understanding of modern <mark>web development</mark> technologies.
+          <b><u>Responsive Web Interface:</u></b> Developed an interactive web interface using <mark>JavaScript</mark>, <mark>HTML</mark>, and <mark>CSS</mark>, facilitating real-time user engagement, face management, and access to entry logs, showcasing understanding of modern <mark>web development</mark> technologies.<br>
 
-          <b><u>Flask Server Backend:</u></b> Created a Flask-based backend architecture to manage video streams and facial recognition processing efficiently, illustrating experience in server-side programming and real-time web communication.
+          <b><u>Flask Server Backend:</u></b> Created a Flask-based backend architecture to manage video streams and facial recognition processing efficiently, illustrating experience in server-side programming and real-time web communication.<br>
 
-          <b><u>Machine Learning for Facial Recognition:</u></b> Implemented a <mark>machine learning</mark> model to achieve accurate facial recognition with low false positives (trained on known faces' encodings), highlighting a foundation in machine learning technologies and their optimization for real-world applications.
+          <b><u>Machine Learning for Facial Recognition:</u></b> Implemented a <mark>machine learning</mark> model to achieve accurate facial recognition with low false positives (trained on known faces' encodings), highlighting a foundation in machine learning technologies and their optimization for real-world applications.<br>
 
-          <b><u>Backend Logic with Python:</u></b> Utilized <mark>Python</mark> for sophisticated backend logic, integrating various <mark>IoT</mark> components and managing data processing tasks, showcasing the versatile application of Python in complex system development.
+          <b><u>Backend Logic with Python:</u></b> Utilized <mark>Python</mark> for sophisticated backend logic, integrating various <mark>IoT</mark> components and managing data processing tasks, showcasing the versatile application of Python in complex system development.<br>
 
-          <b><u>Data Management with SQL:</u></b> Employed <mark>SQL</mark> for robust historical data management, enabling effective data querying and log tracking, reflecting capabilities in database management and design.
+          <b><u>Data Management with SQL:</u></b> Employed <mark>SQL</mark> for robust historical data management, enabling effective data querying and log tracking, reflecting capabilities in database management and design.<br>
 
-          <b><u>Real-Time Notifications via External APIs:</u></b> Integrated external APIs for instant push notifications upon face detection, emphasizing the use of <mark>API integration</mark> and real-time data processing to enhance user experience.
+          <b><u>Real-Time Notifications via External APIs:</u></b> Integrated external APIs for instant push notifications upon face detection, emphasizing the use of <mark>API integration</mark> and real-time data processing to enhance user experience.<br>
 
-          <b><u>Efficient Motion Detection:</u></b> Designed a motion detection mechanism to activate the system (based on absolute pixel differentiation), optimizing energy use while ensuring continuous monitoring, demonstrating innovative application of motion sensing technology for system efficiency.
+          <b><u>Efficient Motion Detection:</u></b> Designed a motion detection mechanism to activate the system (based on absolute pixel differentiation), optimizing energy use while ensuring continuous monitoring, demonstrating innovative application of motion sensing technology for system efficiency.<br>
 
-          <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom; margin-right: 20px; width: 60%;">
+          <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom; margin-right: 20px; width: 60%;"><br>
 
       - layout: top-middle
         title: Neurobiology Lab Testing Apparatus
@@ -109,16 +109,16 @@ content:
         sub_title: >
           Leichtag Biomedical Research
         description: | # this will include new lines to allow paragraphs
-          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="float: right; margin-left: 20px; width: 30%;">
           <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="float: right; margin-left: 20px; width: 30%;">
+          <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="float: right; margin-left: 20px; width: 30%;">
           
-          Improved a cutting-edge cerebellar learning apparatus, integrating <mark>MATLAB</mark> and <mark>C++</mark> for <mark>computer vision</mark> and <mark>data processing</mark>, enhancing neuroscientific research capabilities.
+          Improved a cutting-edge cerebellar learning apparatus, integrating <mark>MATLAB</mark> and <mark>C++</mark> for <mark>computer vision</mark> and <mark>data processing</mark>, enhancing neuroscientific research capabilities.<br>
           
-          Employed a <mark>Teensy microcontroller</mark> for precise, millisecond-accurate control of stimuli delivery and response recording, showcasing functional programming skills.
+          Employed a <mark>Teensy microcontroller</mark> for precise, millisecond-accurate control of stimuli delivery and response recording, showcasing functional programming skills.<br>
           
-          Automated high-speed camera and LED operations for synchronized stimulus delivery and blink detection, demonstrating expertise in <mark>hardware integration</mark> and real-time <mark>system design</mark>.
+          Automated high-speed camera and LED operations for synchronized stimulus delivery and blink detection, demonstrating expertise in <mark>hardware integration</mark> and real-time <mark>system design</mark>.<br>
           
-          Engineered a system for precise air injector control and a custom wheel for improved comfort of the mice (<mark>CAD</mark>, <mark>FEA</mark>, <mark>Stress/Strain testing</mark>), illustrating innovative solutions for experimental challenges in neuroscience.
+          Engineered a system for precise air injector control and a custom wheel for improved comfort of the mice (<mark>CAD</mark>, <mark>FEA</mark>, <mark>Stress/Strain testing</mark>), illustrating innovative solutions for experimental challenges in neuroscience.<br>
           
           
   - title: Experience # Title for the section
