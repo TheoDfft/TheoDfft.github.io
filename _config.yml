@@ -119,8 +119,8 @@ content:
           Engineered a system for precise air injector control and a custom wheel for improved comfort of the mice (<mark>CAD</mark>, <mark>FEA</mark>, <mark>Stress/Strain testing</mark>), illustrating innovative solutions for experimental challenges in neuroscience.<br>
           
           <div style="text-align: center;">
-            <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="width: 40%; margin-right: 20px; display: inline-block;">
-            <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="width: 30%; display: inline-block;">
+            <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="width: 50%; margin-right: 20px; display: inline-block;">
+            <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="width: 40%; display: inline-block;">
           </div>
           
   - title: Experience # Title for the section
@@ -135,16 +135,21 @@ content:
         #quote: > Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Deployed and maintained Locus' AMR fleet at customer sites. Gained expertise in SLAM, Embedded Linux and robotic support with ROS.
+            
+            Demonstrated functional understanding of logistics and ecommerce market dynamics, integrating warehouse automation solutions to optimize operational efficiency and meet evolving customer expectations. Leveraged knowledge on WMS/OMS platforms to streamline solution design and implementation.
+
+            Provided nationwide remote support utilizing SSH, Linux, ROS and Python debugging tools, ensuring seamless operation of robotic systems. Honed customer support skills through on-site and remote assistance, fostering transparent communication channels for effective troubleshooting and solution tailoring.
 
             Developed deployment standards and tools for newly acquired robots. Programmed, tested and deployed brand new fleet management features (queueing, autonomous charging routine, custom warehouse workflow, etc) but also individual robots behaviors (navigation and path-planning algorithms, pickup/dropoff actuations, recovery mechanisms).
 
+            Maintained strong collaborative relationships with cross-functional teams to seamlessly integrate robotic technologies, driving significant customer productivity increases of up to 3x.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: University of California, San Diego
-        caption: Sep. 2018 - Mar. 2021
+        caption: September 2018 - March 2021
         sub_title: B.S. in Mechanical Engineering, Specialization in Robotics and Controls
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -171,7 +176,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          <br><br><br>Supervised Machine Learning: Regression and Classification<br>
+          <br><br>Supervised Machine Learning: Regression and Classification<br>
           Advanced Learning Algorithms<br>
           Unsupervised Learning, Recommenders, Reinforcement Learning<br>
 
