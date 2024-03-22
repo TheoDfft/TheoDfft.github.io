@@ -85,7 +85,7 @@ content:
           <u>Efficient Motion Detection:</u><br> Designed a motion detection mechanism to activate the system (based on absolute pixel differentiation), optimizing energy use while ensuring continuous monitoring, demonstrating innovative application of motion sensing technology for system efficiency.<br><br>
           <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom; margin-right: 20px; width: 60%;"><br><br>
           
-          ***
+          ___
           
 
       - layout: top-middle
@@ -136,7 +136,7 @@ content:
       - layout: top
         description: | # this will include new lines to allow paragraph
           
-          ***
+          ___
           
             
       - layout: left
@@ -181,7 +181,7 @@ content:
       - layout: top
         description: | # this will include new lines to allow paragraph
           
-          ***
+          ___
           
 
       - layout: left
