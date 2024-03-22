@@ -134,13 +134,13 @@ content:
         caption: August 2022 - January 2024
         #quote: > Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Deployed and maintained Locus' AMR fleet at customer sites. Gained expertise in SLAM, Embedded Linux and robotic support with ROS.
+            Led the deployment of 30+ fleets of <mark>autonomous collaborative robots</mark> in warehouse environments. Extensive use of <mark>Linux command-line</mark>, <mark>SLAM techniques</mark> for map generation, and <mark>ROS tools</mark> (RVIZ, Launch file configuration, etc).
             
-            Demonstrated functional understanding of logistics and ecommerce market dynamics, integrating warehouse automation solutions to optimize operational efficiency and meet evolving customer expectations. Leveraged knowledge on WMS/OMS platforms to streamline solution design and implementation.
+            Demonstrated functional understanding of logistics and ecommerce market dynamics, integrating warehouse automation solutions to optimize operational efficiency and meet evolving customer expectations. Leveraged knowledge on <mark>WMS/OMS</mark> platforms to streamline solution design and implementation.
 
-            Provided nationwide remote support utilizing SSH, Linux, ROS and Python debugging tools, ensuring seamless operation of robotic systems. Honed customer support skills through on-site and remote assistance, fostering transparent communication channels for effective troubleshooting and solution tailoring.
+            Provided nationwide remote support utilizing <mark>SSH</mark>, <mark>Linux</mark>, <mark>ROS</mark> and <mark>Python debugging tools</mark>, ensuring seamless operation of robotic systems. Honed <mark>customer support</mark> skills through on-site and remote assistance, fostering transparent communication channels for effective troubleshooting and solution tailoring.
 
-            Developed deployment standards and tools for newly acquired robots. Programmed, tested and deployed brand new fleet management features (queueing, autonomous charging routine, custom warehouse workflow, etc) but also individual robots behaviors (navigation and path-planning algorithms, pickup/dropoff actuations, recovery mechanisms).
+            Spearheaded the deployment of newly acquired <mark>AGVs</mark> using a custom high-level programming IDE based on <mark>Python</mark>, ROS, and <mark>Ubuntu OS</mark>. Programmed, tested and deployed brand new <mark>fleet management</mark> features (queueing, autonomous charging routine, custom warehouse workflow, etc), but also individual <mark>robot behaviors</mark> (navigation and path-planning algorithms, pickup/dropoff actuations, recovery mechanisms). Leveraged the <mark>Modbus protocol</mark> for inter-robot communication and <mark>MongoDB</mark> for central server data management.
 
             Maintained strong collaborative relationships with cross-functional teams to seamlessly integrate robotic technologies, driving significant customer productivity increases of up to 3x.
 
