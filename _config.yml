@@ -65,7 +65,7 @@ content:
             # icon: fab fa-github
             # url: github.com/TheoDfft/hodor-projec
         description: | # this will include new lines to allow paragraphs
-          <br><img src="/images/phone_mockup_bis.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 35%;">
+          <br><img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 35%;">
 
           <u>IoT Security System with NVIDIA Jetson Nano:</u><br> Engineered an advanced security system using the NVIDIA Jetson Nano and a webcam, providing automated entrance monitoring and real-time facial recognition to enhance building security.<br><br>
           <u>Facial Recognition Powered by OpenCV:</u><br> Leveraged <strong>OpenCV</strong> for high-accuracy facial recognition, enabling the system to reliably identify individuals in various lighting conditions, demonstrating the application of <b>computer vision</b> technologies such as Histogram of Oriented Gradients and Face Landmarks Detection.<br><br>
