@@ -9,7 +9,6 @@ version: 2
 name: Theo Duffaut
 title: Robotics Engineer
 email: duffaut.theo@gmail.com
-phone: +1 925-282-0175
 website: https://theodfft.github.io/
 
 # Dark Mode (true/false/never)
@@ -68,7 +67,7 @@ content:
           <br><img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 35%;">
 
           <u>IoT Security System with NVIDIA Jetson Nano:</u><br> Engineered an advanced security system using the NVIDIA Jetson Nano and a webcam, providing automated entrance monitoring and real-time facial recognition to enhance building security.<br><br>
-          <u>Facial Recognition Powered by OpenCV:</u><br> Leveraged <span style="font-weight: bold; text-shadow: 2px 2px 2px red;">OpenCV</span> for high-accuracy facial recognition, enabling the system to reliably identify individuals in various lighting conditions, demonstrating the application of <b>computer vision</b> technologies such as Histogram of Oriented Gradients and Face Landmarks Detection.<br><br>
+          <u>Facial Recognition Powered by OpenCV:</u><br> Leveraged <b>OpenCV</b> for high-accuracy facial recognition, enabling the system to reliably identify individuals in various lighting conditions, demonstrating the application of <b>computer vision</b> technologies such as Histogram of Oriented Gradients and Face Landmarks Detection.<br><br>
           <u>Responsive Web Interface:</u><br> Developed an interactive web interface using <strong>JavaScript</strong>, <b>HTML</b>, and <b>CSS</b>, facilitating real-time user engagement, face management, and access to entry logs, showcasing understanding of modern <b>web development</b> technologies.<br><br>
           <u>Flask Server Backend:</u><br> Created a Flask-based backend architecture to manage video streams and facial recognition processing efficiently, illustrating experience in server-side programming and real-time web communication.<br><br>
           <u>Machine Learning for Facial Recognition:</u><br> Implemented a <b>machine learning</b> model to achieve accurate facial recognition with low false positives (trained on known faces' encodings), highlighting a foundation in machine learning technologies and their optimization for real-world applications.<br><br>
@@ -197,10 +196,8 @@ content:
       - Surfing
       - Gaming
       - Soccer
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Rugby
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
