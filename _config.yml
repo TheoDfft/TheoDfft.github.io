@@ -139,7 +139,7 @@ content:
         caption: January 2021 - July 2022
         #quote: > Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Designed 100+ parts for mass production of new and old product line (<b>Solidworks</b>, <b>AutoCAD</b>, <b>Inventor</b> and <b>Fusion360</b> for prototyping), obtaining an <b>invention patent</b> along the way (U.S. Patent Application 17/863,198).<br><br>
+            Designed 100+ parts for <b>R&D</b> and mass production of new and old product line (<b>Solidworks</b>, <b>AutoCAD</b>, <b>Inventor</b> and <b>Fusion360</b> for prototyping), participating in the obtention of an <b>invention patent</b> (US-20230100608-A1).<br><br>
             Accumulated experience with standard <b>manufacturing techniques</b> (injection molding, ultrasonic welding, DFM).<br><br>
             Developed and deployed stress/strain testing rigs for the company products.<br><br>
             Prototyped hundreds of parts, tools and fixtures using <b>SLA</b>, <b>FDM</b>, <b>CNC</b> and various <b>hand tools</b>.<br><br>
@@ -157,14 +157,14 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs          
           <b><u>Coursework:</u></b><br>
-              Vertically Integrated Project: Research on Self-Driving Robots (VSLAM Focused)
-              Foundations of Robotics
-              Mathematics for Robotics
-              Advanced Mechatronics
-              Reinforcement Learning and Optimal Control for Robotics
-              Robot Perception
-              High-Technology Entrepreneurship 
-              Intellectual Property for Technology and Information Managers
+              Vertically Integrated Project: Research on Self-Driving Robots (VSLAM Focused)<br>
+              Foundations of Robotics<br>
+              Mathematics for Robotics<br>
+              Advanced Mechatronics<br>
+              Reinforcement Learning and Optimal Control for Robotics<br>
+              Robot Perception<br>
+              High-Technology Entrepreneurship<br>
+              Intellectual Property for Technology and Information Managers<br>
 
       - layout: top
         description: | # this will include new lines to allow paragraph
