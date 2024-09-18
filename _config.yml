@@ -148,6 +148,29 @@ content:
   - title: <b>Education</b> # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: left
+        title: New York University
+        caption: September 2024 - December 2025
+        sub_title: M.S. in Mechatronics and Robotics
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs          
+          <b><u>Coursework:</u></b><br>
+              Vertically Integrated Project: Research on Self-Driving Robots (VSLAM Focused)
+              Foundations of Robotics
+              Mathematics for Robotics
+              Advanced Mechatronics
+              Reinforcement Learning and Optimal Control for Robotics
+              Robot Perception
+              High-Technology Entrepreneurship 
+              Intellectual Property for Technology and Information Managers
+
+      - layout: top
+        description: | # this will include new lines to allow paragraph
+        
+          ___
+              
       - layout: left
         title: University of California, San Diego
         caption: September 2018 - March 2021
