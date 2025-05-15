@@ -68,8 +68,8 @@ content:
 
           Developed an interactive SCARA robotic system that replicates user drawings in real-time. The system uses a Raspberry Pi camera to track an ArUco marker on a stylus, with ROS and OpenCV processing the visual input. Inverse kinematics translate the tracked motion into commands for the Arduino-controlled SCARA arm, featuring Dynamixel servos and a custom compliant end-effector for precise drawing on various surfaces. This project showcases the integration of computer vision, embedded control, and robotics for human-guided tasks.<br>
           
-          <br><img src="/images/scara_drawbot_CAD.png" alt="SCARA Drawbot CAD" style="float: center; width: 50%;">
-          <img src="/images/end_effector_CAD.png" alt="SCARA end effector CAD" style="float: center; width: 50%;"><br><br>
+          <br><img src="/images/scara_drawbot_CAD.png" alt="SCARA Drawbot CAD" style="float: left; width: 40%;">
+          <img src="/images/end_effector_CAD.png" alt="SCARA end effector CAD" style="float: right; width: 40%;"><br><br>
 
           ___
 
