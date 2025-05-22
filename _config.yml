@@ -64,7 +64,7 @@ content:
             # icon: fab fa-github
             # url: github.com/TheoDfft/hodor-projec
         description: | # this will include new lines to allow paragraphs
-          <br><img src="/images/scara_drawbot.png" alt="SCARA Drawbot" style="float: center; width: 35%;"><br>
+          <br><img src="/images/scara_drawbot.gif" alt="SCARA Drawbot" style="float: center; width: 35%;"><br>
 
           Developed an interactive SCARA robotic system that replicates user drawings in real-time. The system uses a Raspberry Pi camera to track an ArUco marker on a stylus, with ROS and OpenCV processing the visual input. Inverse kinematics translate the tracked motion into commands for the Arduino-controlled SCARA arm, featuring Dynamixel servos and a custom compliant end-effector for precise drawing on various surfaces. This project showcases the integration of computer vision, embedded control, and robotics for human-guided tasks.<br>
           
