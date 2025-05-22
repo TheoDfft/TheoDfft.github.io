@@ -12,7 +12,7 @@ email: duffaut.theo@gmail.com
 website: https://theodfft.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: facespics
@@ -70,13 +70,13 @@ content:
               <source src="/images/scara_drawbot.mp4" type="video/mp4">
               Your browser does not support the video tag.
             </video>
-            <video autoplay loop muted playsinline style="height: 50%; border: 3px solid #555; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" id="rviz-video">
+            <video autoplay loop muted playsinline style="width: 30%; border: 3px solid #555; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" id="rviz-video">
               <source src="/images/drawbot_rviz.mp4" type="video/mp4">
               Your browser does not support the video tag.
             </video>
             <script>
               document.getElementById('scara-video').playbackRate = 3.0;
-              document.getElementById('rviz-video').playbackRate = 3.0;
+              document.getElementById('rviz-video').playbackRate = 2.0;
             </script>
           </div>
 
