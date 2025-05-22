@@ -65,7 +65,7 @@ content:
             # url: github.com/TheoDfft/hodor-projec
         description: | # this will include new lines to allow paragraphs
 
-        <p>Developed an interactive SCARA robotic system that replicates user drawings in real-time, showcasing the integration of computer vision, embedded control, and robotics for human-guided tasks.</p>
+          <p>Developed an interactive SCARA robotic system that replicates user drawings in real-time, showcasing the integration of computer vision, embedded control, and robotics for human-guided tasks.</p>
 
           <ul style="list-style-type: disc; margin-left: 25px;">
             <li><b>Vision & Tracking:</b> Implemented <b>Raspberry Pi</b> camera system to track an <b>ArUco marker</b> on a stylus using <b>OpenCV</b> for real-time position detection</li>
