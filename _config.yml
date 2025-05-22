@@ -65,7 +65,7 @@ content:
             # url: github.com/TheoDfft/hodor-projec
         description: | # this will include new lines to allow paragraphs
 
-        <p>Developed an interactive SCARA robotic system that replicates user drawings in real-time, showcasing the integration of computer vision, embedded control, and robotics for human-guided tasks.</p>
+          <p>Developed an interactive SCARA robotic system that replicates user drawings in real-time, showcasing the integration of computer vision, embedded control, and robotics for human-guided tasks.</p>
 
           <ul style="list-style-type: disc; margin-left: 25px;">
             <li><b>Vision & Tracking:</b> Implemented <b>Raspberry Pi</b> camera system to track an <b>ArUco marker</b> on a stylus using <b>OpenCV</b> for real-time position detection</li>
@@ -76,24 +76,34 @@ content:
           </ul><br>
 
           <div style="text-align: center; margin-bottom: 20px;">
-            <video autoplay loop muted playsinline style="height: 35%; border: 3px solid #555; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px;" id="scara-video">
-              <source src="/images/scara_drawbot.mp4" type="video/mp4">
-              Your browser does not support the video tag.
-            </video>
-            <br>
-            <video autoplay loop muted playsinline style="width: 50%; border: 3px solid #555; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" id="rviz-video">
-              <source src="/images/drawbot_rviz.mp4" type="video/mp4">
-              Your browser does not support the video tag.
-            </video>
-            <img src="/images/scara_drawbot_CAD.png" alt="SCARA Drawbot CAD" style="width: 40%; margin-right: 20px; display: inline-block; border: 3px solid; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-            <img src="/images/end_effector_CAD.png" alt="SCARA end effector CAD" style="width: 40%; display: inline-block; border: 3px solid; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+            <!-- SCARA video -->
+            <div style="margin-bottom: 20px;">
+              <video autoplay loop muted playsinline style="height: 35%; border: 3px solid #555; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" id="scara-video">
+                <source src="/images/scara_drawbot.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+            </div>
+            
+            <!-- RViz video centered -->
+            <div style="margin-bottom: 20px;">
+              <video autoplay loop muted playsinline style="width: 50%; border: 3px solid #555; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" id="rviz-video">
+                <source src="/images/drawbot_rviz.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+            </div>
+            
+            <!-- CAD images in a row -->
+            <div>
+              <img src="/images/scara_drawbot_CAD.png" alt="SCARA Drawbot CAD" style="width: 40%; margin-right: 20px; display: inline-block; border: 3px solid; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+              <img src="/images/end_effector_CAD.png" alt="SCARA end effector CAD" style="width: 40%; display: inline-block; border: 3px solid; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+            </div>
+            
             <script>
               document.getElementById('scara-video').playbackRate = 3.0;
               document.getElementById('rviz-video').playbackRate = 2.0;
             </script>
-
           </div>
-          
+
           ___
 
       - layout: top-middle
@@ -105,18 +115,22 @@ content:
             # icon: fab fa-github
             # url: github.com/TheoDfft/hodor-project
         description: | # this will include new lines to allow paragraphs
-          <br><img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; margin-left: 20px; width: 35%;">
+          <div style="text-align: right; margin-bottom: 20px;">
+            <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="width: 35%; border: 3px solid; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+          </div>
 
-          <u>IoT Security System with NVIDIA Jetson Nano:</u><br> Engineered an advanced security system using the NVIDIA Jetson Nano and a webcam, providing automated entrance monitoring and real-time facial recognition to enhance building security.<br><br>
-          <u>Facial Recognition Powered by OpenCV:</u><br> Leveraged <b>OpenCV</b> for high-accuracy facial recognition, enabling the system to reliably identify individuals in various lighting conditions, demonstrating the application of <b>computer vision</b> technologies such as Histogram of Oriented Gradients and Face Landmarks Detection.<br><br>
-          <u>Responsive Web Interface:</u><br> Developed an interactive web interface using <strong>JavaScript</strong>, <b>HTML</b>, and <b>CSS</b>, facilitating real-time user engagement, face management, and access to entry logs, showcasing understanding of modern <b>web development</b> technologies.<br><br>
-          <u>Flask Server Backend:</u><br> Created a Flask-based backend architecture to manage video streams and facial recognition processing efficiently, illustrating experience in server-side programming and real-time web communication.<br><br>
-          <u>Machine Learning for Facial Recognition:</u><br> Implemented a <b>machine learning</b> model to achieve accurate facial recognition with low false positives (trained on known faces' encodings), highlighting a foundation in machine learning technologies and their optimization for real-world applications.<br><br>
-          <u>Backend Logic with Python:</u><br> Utilized <b>Python</b> for sophisticated backend logic, integrating various <b>IoT</b> components and managing data processing tasks, showcasing the versatile application of Python in complex system development.<br><br>
-          <u>Data Management with SQL:</u><br> Employed <b>SQL</b> for robust historical data management, enabling effective data querying and log tracking, reflecting capabilities in database management and design.<br><br>
-          <u>Real-Time Notifications via External APIs:</u><br> Integrated external APIs for instant push notifications upon face detection, emphasizing the use of <b>API integration</b> and real-time data processing to enhance user experience.<br><br>
-          <u>Efficient Motion Detection:</u><br> Designed a motion detection mechanism to activate the system (based on absolute pixel differentiation), optimizing energy use while ensuring continuous monitoring, demonstrating innovative application of motion sensing technology for system efficiency.<br><br>
-          # <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom; margin-right: 20px; width: 60%;"><br><br>
+          <p>Engineered an advanced security system using the NVIDIA Jetson Nano, providing automated entrance monitoring and real-time facial recognition to enhance building security.</p>
+          
+          <ul style="list-style-type: disc; margin-left: 25px;">
+            <li><b>Computer Vision:</b> Leveraged <b>OpenCV</b> for high-accuracy facial recognition, enabling reliable identification in various lighting conditions using <b>HOG</b> and <b>Face Landmarks Detection</b></li>
+            <li><b>Web Development:</b> Created an interactive interface with <b>JavaScript</b>, <b>HTML</b>, and <b>CSS</b> for real-time user engagement and system management</li>
+            <li><b>Backend Architecture:</b> Built with <b>Flask</b> to efficiently manage video streams and facial recognition processing</li>
+            <li><b>Machine Learning:</b> Implemented facial recognition models with low false positives using trained face encodings</li>
+            <li><b>System Integration:</b> Utilized <b>Python</b> for sophisticated backend logic, connecting various <b>IoT</b> components</li>
+            <li><b>Data Management:</b> Employed <b>SQL</b> for robust historical data storage, enabling effective log tracking and queries</li>
+            <li><b>API Integration:</b> Connected external services for instant push notifications upon face detection</li>
+            <li><b>Energy Optimization:</b> Designed efficient motion detection based on pixel differentiation to conserve system resources</li>
+          </ul><br>
           
           ___
           
@@ -136,17 +150,19 @@ content:
         sub_title: >
           Leichtag Biomedical Research
         description: | # this will include new lines to allow paragraphs
-          <br>Improved a cutting-edge cerebellar learning apparatus, integrating <b>MATLAB</b> and <b>C++</b> for <b>computer vision</b> and <b>data processing</b>, enhancing neuroscientific research capabilities.<br><br>
+          <p>Improved a cutting-edge cerebellar learning apparatus for neuroscientific research, enhancing precision and reliability of the experimental setup while optimizing the comfort of the test subjects.</p>
           
-          Employed a <b>Teensy microcontroller</b> for precise, millisecond-accurate control of stimuli delivery and response recording, showcasing functional programming skills.<br><br>
+          <ul style="list-style-type: disc; margin-left: 25px;">
+            <li><b>Software Development:</b> Integrated <b>MATLAB</b> and <b>C++</b> for sophisticated <b>computer vision</b> and <b>data processing</b> capabilities</li>
+            <li><b>Embedded Systems:</b> Employed a <b>Teensy microcontroller</b> for millisecond-accurate control of stimuli delivery and response recording</li>
+            <li><b>Hardware Integration:</b> Automated high-speed camera and LED operations for synchronized stimulus delivery and blink detection</li>
+            <li><b>Mechanical Design:</b> Engineered precise air injector control and a custom wheel for improved comfort of test subjects using <b>CAD</b>, <b>FEA</b>, and <b>Stress/Strain testing</b></li>
+            <li><b>Real-time Systems:</b> Created a robust architecture for time-critical experimental measurements and stimulus control</li>
+          </ul><br>
           
-          Automated high-speed camera and LED operations for synchronized stimulus delivery and blink detection, demonstrating expertise in <b>hardware integration</b> and real-time <b>system design</b>.<br><br>
-          
-          Engineered a system for precise air injector control and a custom wheel for improved comfort of the mice (<b>CAD</b>, <b>FEA</b>, <b>Stress/Strain testing</b>), illustrating innovative solutions for experimental challenges in neuroscience.<br><br>
-          
-          <div style="text-align: center;">
-            <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="width: 50%; margin-right: 20px; display: inline-block;">
-            <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="width: 35%; display: inline-block;">
+          <div style="text-align: center; margin-bottom: 20px;">
+            <img src="/images/CDL_rig_annotated.PNG" alt="CDL rig annotated" style="width: 45%; margin-right: 20px; display: inline-block; border: 3px solid; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+            <img src="/images/CDL_eye_CV.jpg" alt="CDL CV on mice eye" style="width: 35%; display: inline-block; border: 3px solid; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
           </div>
           
   - title: <b>Experience</b> # Title for the section
@@ -160,11 +176,17 @@ content:
         caption: August 2022 - January 2024
         #quote: > Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Led the deployment of 30+ fleets of <b>autonomous collaborative robots</b> in warehouse environments. Extensive use of <b>Linux command-line</b>, <b>SLAM techniques</b> for map generation, and <b>ROS tools</b> (RVIZ, Launch file configuration, etc).<br><br>
-            Demonstrated functional understanding of logistics and ecommerce market dynamics, integrating warehouse automation solutions to optimize operational efficiency and meet evolving customer expectations. Leveraged knowledge on <b>WMS/OMS</b> platforms to streamline solution design and implementation.<br><br>
-            Provided nationwide remote support utilizing <b>SSH</b>, <b>Linux</b>, <b>ROS</b> and <b>Python debugging tools</b>, ensuring seamless operation of robotic systems. Honed <b>customer support</b> skills through on-site and remote assistance, fostering transparent communication channels for effective troubleshooting and solution tailoring.<br><br>
-            Spearheaded the deployment of newly acquired <b>AGVs</b> using a custom high-level programming IDE based on <b>Python</b>, ROS, and <b>Ubuntu OS</b>. Programmed, tested and deployed brand new <b>fleet management</b> features (queueing, autonomous charging routine, custom warehouse workflow, etc), but also individual <b>robot behaviors</b> (navigation and path-planning algorithms, pickup/dropoff actuations, recovery mechanisms). Leveraged the <b>Modbus protocol</b> for inter-robot communication and <b>MongoDB</b> for central server data management.<br><br>
-            Maintained strong collaborative relationships with cross-functional teams to seamlessly integrate robotic technologies, driving significant customer productivity increases of up to 3x.
+            <p>Led the deployment of 30+ fleets of autonomous collaborative robots in warehouse environments, ensuring successful integration, operation, and ongoing support for customers across the United States.</p>
+            
+            <ul style="list-style-type: disc; margin-left: 25px;">
+              <li><b>Robotic Deployment:</b> Implemented <b>SLAM techniques</b> for map generation and <b>ROS tools</b> including RVIZ and launch file configuration for successful robot operation</li>
+              <li><b>System Administration:</b> Leveraged <b>Linux command-line</b>, <b>SSH</b>, and <b>Python debugging tools</b> for remote system management and troubleshooting</li>
+              <li><b>Warehouse Automation:</b> Applied knowledge of <b>WMS/OMS</b> platforms to integrate robotic systems with existing warehouse infrastructure</li>
+              <li><b>Robot Programming:</b> Used custom IDE based on <b>Python</b>, <b>ROS</b>, and <b>Ubuntu OS</b> to develop <b>fleet management</b> features and <b>robot behaviors</b></li>
+              <li><b>Communication Protocols:</b> Implemented <b>Modbus protocol</b> for inter-robot communication and utilized <b>MongoDB</b> for central server data management</li>
+              <li><b>Customer Relations:</b> Provided on-site and remote <b>customer support</b>, maintaining transparent communication channels for effective troubleshooting</li>
+              <li><b>Performance Optimization:</b> Collaborated with cross-functional teams to drive significant customer productivity increases of up to 3x</li>
+            </ul><br>
 
       - layout: top
         description: | # this will include new lines to allow paragraph
@@ -180,11 +202,16 @@ content:
         caption: January 2021 - July 2022
         #quote: > Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Designed 100+ parts for <b>R&D</b> and mass production of new and old product line (<b>Solidworks</b>, <b>AutoCAD</b>, <b>Inventor</b> and <b>Fusion360</b> for prototyping), participating in the obtention of an <b>invention patent</b> (US-20230100608-A1).<br><br>
-            Accumulated experience with standard <b>manufacturing techniques</b> (injection molding, ultrasonic welding, DFM).<br><br>
-            Developed and deployed stress/strain testing rigs for the company products.<br><br>
-            Prototyped hundreds of parts, tools and fixtures using <b>SLA</b>, <b>FDM</b>, <b>CNC</b> and various <b>hand tools</b>.<br><br>
-            Led the development of a new product, supervising two newly hired engineers. Gained valuable <b>project management</b> experience and exposure to the full <b>product design cycle</b>.<br><br>
+            <p>Designed and developed mechanical components for both R&D and mass production, helping the company expand its product line while improving manufacturing processes.</p>
+            
+            <ul style="list-style-type: disc; margin-left: 25px;">
+              <li><b>Mechanical Design:</b> Created 100+ parts using <b>Solidworks</b>, <b>AutoCAD</b>, <b>Inventor</b> and <b>Fusion360</b>, contributing to an <b>invention patent</b> (US-20230100608-A1)</li>
+              <li><b>Manufacturing:</b> Applied <b>DFM principles</b> and implemented <b>injection molding</b> and <b>ultrasonic welding</b> techniques for mass production</li>
+              <li><b>Testing & Validation:</b> Developed stress/strain testing rigs to evaluate product performance and durability</li>
+              <li><b>Rapid Prototyping:</b> Fabricated hundreds of parts using <b>SLA</b>, <b>FDM</b>, <b>CNC</b> and various <b>hand tools</b> for iterative design testing</li>
+              <li><b>Leadership:</b> Led development of a new product while supervising two engineers, gaining valuable <b>project management</b> experience</li>
+              <li><b>Product Development:</b> Gained comprehensive exposure to the full <b>product design cycle</b> from concept to manufacturing</li>
+            </ul><br>
 
   - title: <b>Education</b> # Title for the section
     layout: list # Type of content section (list/text)
@@ -247,11 +274,12 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          <br>Supervised Machine Learning: Regression and Classification<br>
-
-          Advanced Learning Algorithms<br>
-          
-          Unsupervised Learning, Recommenders, Reinforcement Learning<br>
+          <ul style="list-style-type: disc; margin-left: 25px;">
+            <li><b>Supervised Machine Learning:</b> Regression and Classification techniques</li>
+            <li><b>Advanced Learning Algorithms:</b> Neural networks and deep learning fundamentals</li>
+            <li><b>Unsupervised Learning:</b> Clustering, dimensionality reduction, recommender systems</li>
+            <li><b>Reinforcement Learning:</b> Decision processes and policy optimization techniques</li>
+          </ul>
 
   - title: <b>A Little More About Me</b>
     layout: text
