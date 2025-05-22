@@ -67,7 +67,7 @@ content:
           <br><img src="/images/scara_drawbot.gif" alt="SCARA Drawbot" style="float: center; width: 35%;"><br>
 
           <video autoplay loop muted playsinline style="width: 100%;">
-            <source src="/images/scara_drawbot.mov" type="video/mov">
+            <source src="/images/scara_drawbot.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video><br>
 
