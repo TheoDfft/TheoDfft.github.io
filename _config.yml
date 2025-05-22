@@ -116,7 +116,7 @@ content:
             # url: github.com/TheoDfft/hodor-project
         description: | # this will include new lines to allow paragraphs
           <div style="overflow: auto; margin-bottom: 20px;">
-            <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; height: 35%; margin-left: 25px;">
+            <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; width: 30%; margin-left: 25px;">
             
             <p>Engineered an advanced security system using the NVIDIA Jetson Nano, providing automated entrance monitoring and real-time facial recognition to enhance building security.</p>
             
@@ -130,7 +130,10 @@ content:
               <li><b>API Integration:</b> Connected external services for instant push notifications upon face detection</li>
               <li><b>Energy Optimization:</b> Designed efficient motion detection based on pixel differentiation to conserve system resources</li>
             </ul>
+
+            <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="float: bottom-left; width: 50%;">
           </div>
+
           
           <div style="text-align: left; margin-bottom: 20px;">
             <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="width: 50%;">
