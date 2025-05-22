@@ -115,22 +115,26 @@ content:
             # icon: fab fa-github
             # url: github.com/TheoDfft/hodor-project
         description: | # this will include new lines to allow paragraphs
-          <div style="text-align: right; margin-bottom: 20px;">
-            <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="width: 35%; border: 3px solid; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+          <div style="overflow: auto; margin-bottom: 20px;">
+            <img src="/images/phone_mockup.png" alt="Hodor mobile webpage" style="float: right; width: 35%; margin-left: 20px; border: 3px solid; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+            
+            <p>Engineered an advanced security system using the NVIDIA Jetson Nano, providing automated entrance monitoring and real-time facial recognition to enhance building security.</p>
+            
+            <ul style="list-style-type: disc; margin-left: 25px;">
+              <li><b>Computer Vision:</b> Leveraged <b>OpenCV</b> for high-accuracy facial recognition, enabling reliable identification in various lighting conditions using <b>HOG</b> and <b>Face Landmarks Detection</b></li>
+              <li><b>Web Development:</b> Created an interactive interface with <b>JavaScript</b>, <b>HTML</b>, and <b>CSS</b> for real-time user engagement and system management</li>
+              <li><b>Backend Architecture:</b> Built with <b>Flask</b> to efficiently manage video streams and facial recognition processing</li>
+              <li><b>Machine Learning:</b> Implemented facial recognition models with low false positives using trained face encodings</li>
+              <li><b>System Integration:</b> Utilized <b>Python</b> for sophisticated backend logic, connecting various <b>IoT</b> components</li>
+              <li><b>Data Management:</b> Employed <b>SQL</b> for robust historical data storage, enabling effective log tracking and queries</li>
+              <li><b>API Integration:</b> Connected external services for instant push notifications upon face detection</li>
+              <li><b>Energy Optimization:</b> Designed efficient motion detection based on pixel differentiation to conserve system resources</li>
+            </ul>
           </div>
-
-          <p>Engineered an advanced security system using the NVIDIA Jetson Nano, providing automated entrance monitoring and real-time facial recognition to enhance building security.</p>
           
-          <ul style="list-style-type: disc; margin-left: 25px;">
-            <li><b>Computer Vision:</b> Leveraged <b>OpenCV</b> for high-accuracy facial recognition, enabling reliable identification in various lighting conditions using <b>HOG</b> and <b>Face Landmarks Detection</b></li>
-            <li><b>Web Development:</b> Created an interactive interface with <b>JavaScript</b>, <b>HTML</b>, and <b>CSS</b> for real-time user engagement and system management</li>
-            <li><b>Backend Architecture:</b> Built with <b>Flask</b> to efficiently manage video streams and facial recognition processing</li>
-            <li><b>Machine Learning:</b> Implemented facial recognition models with low false positives using trained face encodings</li>
-            <li><b>System Integration:</b> Utilized <b>Python</b> for sophisticated backend logic, connecting various <b>IoT</b> components</li>
-            <li><b>Data Management:</b> Employed <b>SQL</b> for robust historical data storage, enabling effective log tracking and queries</li>
-            <li><b>API Integration:</b> Connected external services for instant push notifications upon face detection</li>
-            <li><b>Energy Optimization:</b> Designed efficient motion detection based on pixel differentiation to conserve system resources</li>
-          </ul><br>
+          <div style="text-align: center; margin-bottom: 20px;">
+            <img src="/images/Hodor_webpage_main.png" alt="Hodor webpage" style="width: 70%; border: 3px solid; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+          </div><br>
           
           ___
           
@@ -223,7 +227,9 @@ content:
         sub_title: M.S. in Mechatronics and Robotics
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs          
+        description: | # this will include new lines to allow paragraphs
+          <b><u>GPA:</u></b> 3.89
+
           <b><u>Coursework:</u></b><br>
               Vertically Integrated Project: Research on Self-Driving Robots (VSLAM Focused)<br>
               Foundations of Robotics<br>
